@@ -1,0 +1,27 @@
+{
+	"name": "com.gentlymadstudios.screenshottool",
+	"version": "0.0.1",
+	"displayName": "ScreenshotTool",
+	"description": "ScreenshotTool by Gentlymad Studios.",
+	"unity": "2022.1",
+	"unityRelease": "16f1",
+	"documentationUrl": "https://github.com/Gentlymad-Studios/ScreenshotTool/blob/master/README.md",
+	"changelogUrl": "https://github.com/Gentlymad-Studios/ScreenshotTool/blob/master/CHANGELOG.md",
+	"licensesUrl": "https://github.com/Gentlymad-Studios/ScreenshotTool/blob/master/LICENSE.md",
+	"custom_packageJsonLink": "https://raw.githubusercontent.com/Gentlymad-Studios/ScreenshotTool/master/package.json",
+	"dependencies": {
+	},
+	"keywords": [
+		"runtime",
+		"unity",
+    "unityeditor",
+    "screenshot",
+		"capture",
+		"gentlymad"
+	],
+	"author": {
+		"name": "Gentlymad Studios",
+		"url": "https://gentlymadstudios.com",
+		"email": "team@gentlymadstudios.com"
+	}
+}
