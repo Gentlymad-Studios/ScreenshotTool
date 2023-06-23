@@ -9,3 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.1.0] - 2023-06-13
 ### Added
 - Initial release
+
+## [0.1.1] - 2023-06-13
+### Changed
+- fix issue with not excluded editor logic

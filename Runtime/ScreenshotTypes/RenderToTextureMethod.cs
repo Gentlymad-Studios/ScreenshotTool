@@ -2,7 +2,9 @@
 using System.Linq;
 using static Screenshot.Prefs;
 using UnityEngine.UIElements;
+#if UNITY_EDITOR
 using UnityEditor.UIElements;
+#endif
 
 namespace Screenshot {
 	public class RenderToTextureMethod : ScreenshotMethod {
